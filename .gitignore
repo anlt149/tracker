@@ -1,6 +1,3 @@
-./build/*
-.idea/
-core/build/*
-security/build/*
-
 .gradle
+**/build/
+!src/**/build/
