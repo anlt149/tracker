@@ -1,0 +1,5 @@
+rootProject.name = 'tracker-app'
+include 'core'
+include 'security'
+include 'apis'
+
